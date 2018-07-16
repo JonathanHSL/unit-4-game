@@ -1,0 +1,34 @@
+body{
+
+    background-image: url("https://media3.giphy.com/media/3og0IV7MOCfnm85iRa/giphy.gif");
+}
+
+.crystal{
+    display: flex;
+    height: 200px;
+    width: 200px;
+}
+
+.crystals{
+     display:flex;
+     justify-content: space-around;
+     align-items: center;
+}
+
+#result{
+    font-size: 40px;
+    color: white;
+}
+
+#add{
+    font-size: 27px;
+    color: white;   
+}
+#loss{
+    font-size: 27px;
+    color: white;   
+}
+#win{
+    font-size: 27px;
+    color: white;   
+}
