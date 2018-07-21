@@ -110,20 +110,5 @@ startGame();
 
 
 
-// make a game with 4 crystals that generate a random number to match the given random number.
-
-//crystals need to have a random value from 1-12.
-
-//a new random number that needs to be matched should be generated when there is a win or a loss.
-
-//new random should generate for the four crystals as well.
-
-//when clicking a crystal it should add the number from the previous clicks.
-
-//until it equals the random number.
-
-//If the number is greater we decrement a number to the loss counter.
-
-//If the number is  equal we increment a number to the win counter.
 
  
